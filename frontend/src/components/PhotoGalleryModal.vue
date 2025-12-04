@@ -129,15 +129,15 @@ const currentIndex = ref(0)
 // รูปภาพ 4 รูป - เปลี่ยน path ตามรูปจริงของคุณ
 const photos = ref([
   {
-    src: '/public/Decem1.jpg',
+    src: '/Decem1.jpg',
     caption: '10 อันดับคนที่ขยันที่สุด'
   },
   {
-    src: '/public/Decem2.jpg',
+    src: '/Decem2.jpg',
     caption: 'เรียน 2 ชม. เมาท์ไปละครึ่งคาบ'
   },
   {
-    src: '/public/Decem3.jpg',
+    src: '/Decem3.jpg',
     caption: 'วอนหน่วยงานมาเก็บป้า'
   }
 ])
